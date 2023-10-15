@@ -1,10 +1,10 @@
-# Capstone Project: Analyzing Booking.com Data
+# Capstone Project: Analyzing Booking.com 
 
 This repository contains the code and data files for my Capstone project completed at Datatrained. The project involves the analysis of Booking.com data and includes the following phases:
 
 - Web Scraping (Phase 1)
 - SQL Queries (Phase 2)
-- Exploratory Data Analysis (EDA) and Machine Learning (Phase 3)
+- Exploratory Data Analysis (EDA) and Machine Learning (Phase 3 & 4)
 
 ## Project Overview
 
